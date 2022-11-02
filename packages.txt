@@ -1,2 +1,2 @@
 pandas==1.4.4
-libtk8.6
+libgtk2.0-dev
