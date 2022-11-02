@@ -5,6 +5,7 @@ import random
 import altair as alt
 import numpy as np
 import pandas as pd
+import tkinter as tk 
 
 st.header('Homework 1')
 
@@ -105,4 +106,3 @@ The 2 changes I made were:
 - Changed opacity
 """
 )
-
